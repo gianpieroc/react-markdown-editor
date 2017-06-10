@@ -1,10 +1,9 @@
-React Markdown demo using react and redux
+A Markdown editor demo
 
-run:
-
+To run this demo:
 ```yarn install```
-
 and then
-
 ```yarn start```
 
+Check out the demo here: 
+https://react-markdown-demo.herokuapp.com/
