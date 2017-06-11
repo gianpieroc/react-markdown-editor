@@ -6,4 +6,4 @@ and then
 ```yarn start```
 
 Check out the demo here: 
-https://thawing-depths-80221.herokuapp.com/
+https://react-markdown-editor.herokuapp.com/
