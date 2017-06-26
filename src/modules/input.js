@@ -1,10 +1,8 @@
 export const CHANGE_INPUT = 'CHANGE_INPUT'
 
-const initialInput = localStorage.getItem('input') ? localStorage.getItem('input') : '';
-
 const initialState = {
   htmlMode: 'raw',
-  input:initialInput
+  input: ''
 }
 
 export default (state = initialState, action) => {

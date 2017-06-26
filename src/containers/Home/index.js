@@ -7,12 +7,8 @@ import ReactMarkdown from 'react-markdown'
 import './style.css'
 
 class Home  extends React.Component{
-  state = {
-    htmlMode: 'raw'
-  }
 
   onMarkdownChange = (md) => {
-    localStorage.setItem('input', this.refs.pathInput.value);
     return this.props.changeInput(this.refs.pathInput.value);
   }
 
