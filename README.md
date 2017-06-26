@@ -1,9 +1,11 @@
-A Markdown editor demo
+# A Markdown editor demo
 
 To run this demo:
-```yarn install```
-and then
-```yarn start```
+1. Clone the repo
+2. ```yarn install```
+3. ```yarn start```
 
-Check out the demo here: 
+
+
+You can check out the demo here: 
 https://react-markdown-editor.herokuapp.com/
